@@ -1,0 +1,40 @@
+body,html {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    /* width: 100%; */
+    background: #808052;
+    color: #fff;
+    padding: 20px;
+}
+#main .contact-image img{
+    width: 600px;
+}
+
+
+.contact-form h3{
+    color: #808052;
+}
+.contact-form label{
+    margin-top:30px;
+}
+.contact-form input{
+    border: solid 1px;
+    width: 70%;
+}
+.contact-form textarea{
+    border: solid 1px;
+    width: 70%;
+}
+.contact-btn{
+    padding:10px !important;
+    margin-top: 10px;
+}
